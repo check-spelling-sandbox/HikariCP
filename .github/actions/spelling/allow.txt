@@ -1,0 +1,7 @@
+github
+https
+passthrough
+postgre
+ssh
+ubuntu
+workarounds
